@@ -10,11 +10,17 @@ message: >-
   metadata from this file.
 type: software
 authors:
-  - name: Universidad de los Andes
+  - given-names: Juan Andrés Ariza Gacharná
+    affiliation: Universidad de los Andes
+  - affiliation: Universidad de los Andes
+    given-names: Brenda Catalina Barahona Pinilla
+  - given-names: Juan Diego González Gómez
+    affiliation: Universidad de los Andes
+  - affiliation: Universidad de los Andes
+    given-names: Valentina Salazar Marín
 identifiers:
   - type: url
     value: >-
-      https://github.com/ValentinaSalazarM/2023-DeepLearning/tree/main/Proyecto
+      https://github.com/ValentinaSalazarM/2023-DeepLearning.git
     description: Repositorio en Github
-repository-code: >-
-  https://github.com/ValentinaSalazarM/2023-DeepLearning/blob/main/Proyecto/Workspace/%5BMINE_4210%5D_Notebook_Proyecto.ipynb
+repository-code: 'https://github.com/ValentinaSalazarM/2023-DeepLearning.git'
