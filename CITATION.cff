@@ -1,0 +1,20 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Arquitectura LSTM para la predicción de etapas de sueño en
+  polisomnografías
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - name: Universidad de los Andes
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/ValentinaSalazarM/2023-DeepLearning/tree/main/Proyecto
+    description: Repositorio en Github
+repository-code: >-
+  https://github.com/ValentinaSalazarM/2023-DeepLearning/blob/main/Proyecto/Workspace/%5BMINE_4210%5D_Notebook_Proyecto.ipynb
